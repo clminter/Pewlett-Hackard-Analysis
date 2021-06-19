@@ -19,7 +19,7 @@
 
 
  ![image](https://user-images.githubusercontent.com/81878169/122657798-461cf080-d12c-11eb-84de-5bf31809ada1.png)
-  ![image](https://user-images.githubusercontent.com/81878169/122657816-6a78cd00-d12c-11eb-829f-55f3d38a351e.png)
+ ![image](https://user-images.githubusercontent.com/81878169/122657816-6a78cd00-d12c-11eb-829f-55f3d38a351e.png)
  
 4. Create a Mentorship Eligibility table for current employees who were born between 1/1/1965 and 12/31/1965:
 
