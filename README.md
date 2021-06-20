@@ -44,7 +44,8 @@
 ![image](https://user-images.githubusercontent.com/81878169/122659225-70c27580-d13b-11eb-89cc-52a0e8af7625.png)
 
 ### Total Employees
-![image](https://user-images.githubusercontent.com/81878169/122659765-ac137300-d140-11eb-8d19-3ced6859508f.png)
+![image](https://user-images.githubusercontent.com/81878169/122659782-e3821f80-d140-11eb-9f9d-f7b61b8857a6.png)
+
 
 
 
