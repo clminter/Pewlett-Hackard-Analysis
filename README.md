@@ -28,7 +28,7 @@
 ![image](https://user-images.githubusercontent.com/81878169/122657847-9c8a2f00-d12c-11eb-894d-00a94dcd560d.png)
 
 ## SUMMARY
-1. A significant amount of roles will need to filled in a relatively short periord of time.  In fact, there will be 36,619 open positions to fill throughout (9) departments:
+1. A significant amount of roles will need to filled in a relatively short periord of time.  In fact, there will be 33,118 open positions to fill throughout (9) departments:
 
 ![image](https://user-images.githubusercontent.com/81878169/122659158-710e4100-d13a-11eb-8055-5b053b8fa9cb.png)
 
@@ -37,4 +37,4 @@
 
 
 
-2. There are a total of 1,549 retirement ready employees throughout the departments to mentor the next generation of staff and a total of 90,398 employees minus the retiring staff 33,118 =57,279. That calculates out to 40 employees per mentor.
+2. There are a total of 1,549 retirement ready employees to mentor the next generation of staff and a total of 90,398 employees minus the retiring staff 33,118 =57,279. That calculates out to 40 employees per mentor.
