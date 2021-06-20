@@ -46,6 +46,9 @@
 ### Total Employees
 ![image](https://user-images.githubusercontent.com/81878169/122659782-e3821f80-d140-11eb-9f9d-f7b61b8857a6.png)
 
+![image](https://user-images.githubusercontent.com/81878169/122659796-12989100-d141-11eb-83f3-29b68da9ef28.png)
+
+
 
 
 
