@@ -37,4 +37,10 @@
 
 
 
-2. There are a total of 1,549 retirement ready employees to mentor the next generation of staff and a total of 90,398 employees minus the retiring staff 33,118 =57,279. That calculates out to 40 employees per mentor.
+2. There are a total of 1,549 retirement ready employees to mentor the next generation of staff and a total of 90,398 employees minus the retiring staff of 33,118 =57,279. That calculates out to 40 employees per mentor. This appears to be an impossible situation as there are not nearly enough mentors for the total amount of employees. 
+
+![image](https://user-images.githubusercontent.com/81878169/122659223-5dafa580-d13b-11eb-8f17-a0725814edf8.png)
+
+![image](https://user-images.githubusercontent.com/81878169/122659225-70c27580-d13b-11eb-89cc-52a0e8af7625.png)
+
+
