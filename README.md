@@ -37,7 +37,7 @@
 
 
 
-2. There are a total of 1,549 retirement ready employees to mentor the next generation of staff and a total of 36,619 employees minus the retiring staff of 33,118 =3,501. That calculates out to 2 employees per mentor. This appears to be reasonable. However, the total loss of employees is going to be devastating to the company and a significant loss in productivity will occur.
+2. There are a total of 1,549 retirement ready employees to mentor the next generation of staff and a total of 36,619 employees minus the retiring staff of 33,118 =3,501. That calculates out to 2 employees per mentor. This appears to be reasonable. However, the total loss of employees is going to be devastating to the company and a significant loss in productivity will occur. Once the vacant spots are filled there will only be 1 mentor per 23.6 employees which is not feasable to rebuild back to current production and quality levels quickly.
 
 ![image](https://user-images.githubusercontent.com/81878169/122659223-5dafa580-d13b-11eb-8f17-a0725814edf8.png)
 
