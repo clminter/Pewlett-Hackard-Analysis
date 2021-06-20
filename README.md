@@ -31,7 +31,8 @@
 1. A significant amount of roles will need to filled in a relatively short periord of time.  In fact, there will be 36,619 open positions to fill throughout (9) departments:
 
 
-   ![image](https://user-images.githubusercontent.com/81878169/122658054-6baaf980-d12e-11eb-90e6-3ad2ba9aa397.png)
+![image](https://user-images.githubusercontent.com/81878169/122659006-c21d3580-d138-11eb-9a77-848b0192d263.png)
+
 
 
 
